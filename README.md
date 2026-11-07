@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Technical Literature Scout (Hindsight)
 
 🔬 **Autonomous AI Research Agent for Engineering Teams**
@@ -219,3 +220,6 @@ MIT
 ---
 
 **Built with ❤️ for research teams everywhere.**
+=======
+# resAIDerch
+>>>>>>> b04bc6dddf3289129b404ade6414f6f93b843cff
